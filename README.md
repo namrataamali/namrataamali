@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="center">Hi 👋, I'm Namrata Amali</h1>
 
 <h3 align="center">Aspiring Data Scientist | Data Analyst | Data Science Enthusiast</h3>
