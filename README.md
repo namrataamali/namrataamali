@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Namrata Amali</h1>
+<h1 align="center">Hi 👋, I'm Namrata Mali</h1>
 
 <h3 align="center">Aspiring Data Scientist | Data Analyst | Machine Learning Enthusiast</h3>
 
@@ -60,6 +60,29 @@ I enjoy exploring datasets, discovering meaningful patterns, and applying analyt
 ---
 
 ## 🚀 Featured Projects
+
+### 🌊 FloodGuard AI | Flood Risk Prediction & Early Warning Intelligence
+
+**Tech Stack:** Python · Random Forest · Scikit-learn · Pandas · NumPy · Plotly · Streamlit
+
+Developed a machine learning-based river monitoring system that analyzes historical water levels and rainfall, predicts next-day flood-risk categories, and identifies potential risk escalation.
+
+**Key Highlights:**
+- Processed approximately **3.99 million historical station-day observations** from CWC-derived Indian river monitoring data.
+- Developed a Random Forest classifier to predict **Low, Medium, and High** next-day risk categories.
+- Achieved **97.91% accuracy** and **0.85 High Risk F1-score** on the chronological test dataset.
+- Built a separate Risk Escalation model to identify stations that may newly enter High Risk.
+- Achieved **34.3% escalation recall** and **0.288 F1-score** on validation data using a 0.60 alert-score threshold.
+- Developed an interactive Streamlit dashboard with station monitoring, water-level trends, risk predictions, and batch CSV analysis.
+- Integrated station-specific warning and danger thresholds, downloadable predictions, and model limitations.
+
+**Model Evaluation:** Risk Classification Accuracy: 97.91% | High Risk F1: 0.85 | Escalation Validation F1: 0.288
+
+*Research prototype using historical observations and threshold-based risk labels, not confirmed flood events or live flood warnings.*
+
+🔗 **[View Project on GitHub](https://github.com/namrataamali/FloodGuard-AI)**
+
+---
 
 ### ⚡ EnergyWatch AI | Smart Electricity Monitoring & Anomaly Detection
 
