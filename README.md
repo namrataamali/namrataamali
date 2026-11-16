@@ -23,7 +23,7 @@ I enjoy exploring datasets, discovering meaningful patterns, and applying analyt
 - 📊 Interested in Data Analytics, Data Visualization, and Machine Learning.
 - 🌱 Continuously learning Python, SQL, and analytical techniques.
 - 💡 Passionate about transforming raw data into meaningful insights.
-- 🚀 Building hands-on projects involving predictive modeling and interactive applications.
+- 🚀 Building hands-on projects involving predictive modeling, anomaly detection, and interactive applications.
 - 🤝 Open to collaborating on Data Science and Analytics projects.
 - 💼 Seeking **Data Analyst, Data Science internships, and entry-level opportunities**.
 
@@ -41,6 +41,7 @@ I enjoy exploring datasets, discovering meaningful patterns, and applying analyt
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
@@ -59,6 +60,50 @@ I enjoy exploring datasets, discovering meaningful patterns, and applying analyt
 ---
 
 ## 🚀 Featured Projects
+
+### ⚡ EnergyWatch AI | Smart Electricity Monitoring & Anomaly Detection
+
+**Tech Stack:** Python · Isolation Forest · Scikit-learn · Pandas · Plotly · Streamlit
+
+Developed an intelligent electricity monitoring application that analyzes household power consumption, detects unusual usage patterns, and provides risk-based energy recommendations.
+
+**Key Highlights:**
+- Analyzed **34,168 hourly electricity records** from the UCI Household Electric Power Consumption dataset.
+- Implemented Isolation Forest to detect **1,709 statistical anomalies**.
+- Achieved a **Silhouette Score of 0.5853** for predicted-group separation.
+- Developed Low, Medium, and High anomaly risk classifications.
+- Built an interactive Streamlit dashboard with electricity trends, anomaly visualization, and smart recommendations.
+- Integrated CSV upload, automated anomaly analysis, and downloadable reports.
+
+**Model Evaluation:** Silhouette Score: 0.5853 | Anomaly Rate: 5.00%
+
+*Anomalies represent unusual consumption patterns rather than confirmed electrical faults.*
+
+🔗 **[View Project on GitHub](https://github.com/namrataamali/EnergyWatch-AI)**
+
+---
+
+### 🏭 MachineGuard AI | Predictive Maintenance & Failure Risk Assessment
+
+**Tech Stack:** Python · Random Forest · Scikit-learn · Pandas · Streamlit
+
+Developed a machine learning-based predictive maintenance system to identify potential equipment failures, assess operational risk, and support preventive maintenance decisions.
+
+**Key Highlights:**
+- Used the UCI AI4I 2020 Predictive Maintenance dataset containing **10,000 equipment records**.
+- Trained a Random Forest classifier to predict machine failure.
+- Improved failure detection recall from **40% to 74%** through threshold optimization.
+- Achieved approximately **68% precision and 70% F1-score** for failure detection.
+- Implemented risk assessment and rule-based maintenance recommendations.
+- Developed an interactive Streamlit dashboard for equipment monitoring and predictions.
+
+**Model Evaluation:** Precision: 68% | Recall: 74% | F1-Score: 70%
+
+*The AI4I dataset contains synthetic predictive-maintenance observations.*
+
+🔗 **[View Project on GitHub](https://github.com/namrataamali/MachineGuard-AI)**
+
+---
 
 ### 🩺 Diabetes Prediction System | Machine Learning & Streamlit
 
@@ -81,7 +126,7 @@ Developed a machine learning-based application that predicts diabetes outcomes u
 
 - **Data Analytics:** Data cleaning, exploratory analysis, and extracting actionable insights.
 - **Data Visualization:** Creating meaningful dashboards and communicating findings.
-- **Machine Learning:** Developing predictive models and exploring practical applications.
+- **Machine Learning:** Developing predictive models, classification systems, and anomaly detection solutions.
 - **Business Intelligence:** Understanding business performance through data.
 - **Statistics:** Applying statistical concepts to support data-driven decisions.
 
@@ -133,4 +178,3 @@ I'm always interested in learning, collaborating, and exploring opportunities in
 <p align="center">
   <i>"Learning from data, one insight at a time."</i>
 </p>
-```
