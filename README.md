@@ -61,7 +61,7 @@ I enjoy exploring datasets, discovering meaningful patterns, and applying analyt
 
 ## 🚀 Featured Projects
 
-### 🌊 FloodGuard AI | Flood Risk Prediction & Early Warning Intelligence
+### 🌊 FloodGuard | Flood Risk Prediction & Early Warning Intelligence
 
 **Tech Stack:** Python · Random Forest · Scikit-learn · Pandas · NumPy · Plotly · Streamlit
 
@@ -84,7 +84,7 @@ Developed a machine learning-based river monitoring system that analyzes histori
 
 ---
 
-### ⚡ EnergyWatch AI | Smart Electricity Monitoring & Anomaly Detection
+### ⚡ EnergyWatch | Smart Electricity Monitoring & Anomaly Detection
 
 **Tech Stack:** Python · Isolation Forest · Scikit-learn · Pandas · Plotly · Streamlit
 
