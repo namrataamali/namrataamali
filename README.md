@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Namrata Mali</h1>
+<h1 align="center">Hi 👋, I'm Namrata Amali</h1>
 
 <h3 align="center">Aspiring Data Scientist | Data Analyst | Machine Learning Enthusiast</h3>
 
@@ -69,10 +69,10 @@ Developed an intelligent electricity monitoring application that analyzes househ
 
 **Key Highlights:**
 - Analyzed **34,168 hourly electricity records** from the UCI Household Electric Power Consumption dataset.
-- Implemented Isolation Forest to detect **1,709 statistical anomalies**.
+- Implemented Isolation Forest to identify **1,709 statistical anomalies**.
 - Achieved a **Silhouette Score of 0.5853** for predicted-group separation.
 - Developed Low, Medium, and High anomaly risk classifications.
-- Built an interactive Streamlit dashboard with electricity trends, anomaly visualization, and smart recommendations.
+- Built an interactive Streamlit dashboard with consumption trends, anomaly visualization, and smart recommendations.
 - Integrated CSV upload, automated anomaly analysis, and downloadable reports.
 
 **Model Evaluation:** Silhouette Score: 0.5853 | Anomaly Rate: 5.00%
@@ -164,6 +164,12 @@ Developed a machine learning-based application that predicts diabetes outcomes u
 I'm always interested in learning, collaborating, and exploring opportunities in Data Science and Analytics.
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/namratamali1308/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@namratam074">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
   <a href="https://github.com/namrataamali">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
