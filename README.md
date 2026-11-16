@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Namrata Amali</h1>
 
 <h3 align="center">Aspiring Data Scientist | Data Analyst | Machine Learning Enthusiast</h3>
@@ -57,4 +58,79 @@ I enjoy exploring datasets, discovering meaningful patterns, and applying analyt
 
 ---
 
-##
+## 🚀 Featured Projects
+
+### 🩺 Diabetes Prediction System | Machine Learning & Streamlit
+
+**Tech Stack:** Python · Logistic Regression · Scikit-learn · Streamlit · Jupyter Notebook
+
+Developed a machine learning-based application that predicts diabetes outcomes using patient health indicators through an interactive Streamlit interface.
+
+**Key Highlights:**
+- Built a diabetes prediction model using Logistic Regression.
+- Developed an interactive Streamlit application for user input and predictions.
+- Integrated the trained machine learning model into the application.
+- Implemented prediction results with estimated diabetes probability.
+- Organized the project with a Jupyter notebook, saved model, and application code.
+
+🔗 **[View Project on GitHub](https://github.com/namrataamali/Diabetes_Streamlit)**
+
+---
+
+## 🎯 Areas of Interest
+
+- **Data Analytics:** Data cleaning, exploratory analysis, and extracting actionable insights.
+- **Data Visualization:** Creating meaningful dashboards and communicating findings.
+- **Machine Learning:** Developing predictive models and exploring practical applications.
+- **Business Intelligence:** Understanding business performance through data.
+- **Statistics:** Applying statistical concepts to support data-driven decisions.
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Data Analysis using Python and SQL
+- Machine Learning Algorithms and Model Evaluation
+- Exploratory Data Analysis and Feature Engineering
+- Interactive Dashboards and Business Intelligence
+- Real-world Data Science Project Development
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=namrataamali&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namrataamali&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=namrataamali&theme=tokyo-night&hide_border=true" width="95%" />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in learning, collaborating, and exploring opportunities in Data Science and Analytics.
+
+<p align="center">
+  <a href="https://github.com/namrataamali">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Open to Data Analyst & Data Science Internships | Entry-Level Opportunities</b>
+</p>
+
+---
+
+<p align="center">
+  <i>"Learning from data, one insight at a time."</i>
+</p>
+```
