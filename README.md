@@ -1,209 +1,233 @@
+# Namrata Mali | Data Science & Analytics
 
-<h1 align="center">Hi 👋, I'm Namrata Mali</h1>
+\<p align="center">
+&#x20; \<img src="[https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Data+Science+%26+Analytics;Machine+Learning+%7C+Predictive+Modeling;Turning+Data+Into+Decisions;Building+Intelligent+Data+Applications](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=21\&duration=3000\&pause=1000\&color=38BDF8\&center=true\&vCenter=true\&width=750\&lines=Data+Science+%26+Analytics;Machine+Learning+%7C+Predictive+Modeling;Turning+Data+Into+Decisions;Building+Intelligent+Data+Applications)" alt="Professional Introduction" />
+\</p>
 
-<h3 align="center">Aspiring Data Scientist | Data Analyst | Machine Learning Enthusiast</h3>
-
-<p align="center">
-  Turning data into meaningful insights and building practical, data-driven solutions.
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Exploring+Data+Science+%26+Analytics;Learning+Machine+Learning;Transforming+Data+into+Insights;Building+Real+World+Projects;Open+to+Internships+%26+Opportunities" alt="Typing SVG" />
-</p>
-
----
-
-## 👩‍💻 About Me
-
-I'm an aspiring **Data Scientist and Data Analyst**, currently pursuing my studies and developing my knowledge of data analytics, statistics, and machine learning.
-
-I enjoy exploring datasets, discovering meaningful patterns, and applying analytical techniques to solve real-world problems.
-
-- 🎓 Currently studying and expanding my knowledge of Data Science.
-- 📊 Interested in Data Analytics, Data Visualization, and Machine Learning.
-- 🌱 Continuously learning Python, SQL, and analytical techniques.
-- 💡 Passionate about transforming raw data into meaningful insights.
-- 🚀 Building hands-on projects involving predictive modeling, anomaly detection, and interactive applications.
-- 🤝 Open to collaborating on Data Science and Analytics projects.
-- 💼 Seeking **Data Analyst, Data Science internships, and entry-level opportunities**.
+\<p align="center">
+&#x20; \<a href="[https://github.com/namrataamali](https://github.com/namrataamali)">
+&#x20;   \<img src="[https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)" />
+&#x20; \</a>
+&#x20; \<a href="[https://www.linkedin.com/in/namratamali1308/](https://www.linkedin.com/in/namratamali1308/)">
+&#x20;   \<img src="[https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)" />
+&#x20; \</a>
+&#x20; \<a href="[https://medium.com/@namratam074](https://medium.com/@namratam074)">
+&#x20;   \<img src="[https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white](https://img.shields.io/badge/Medium-000000?style=flat-square\&logo=medium\&logoColor=white)" />
+&#x20; \</a>
+\</p>
 
 ---
 
-## 🛠️ Technical Skills & Tools
+## 01 / PROFILE
 
-### 💻 Programming & Databases
+I am a **Data Science and Analytics enthusiast** with a Bachelor of Computer Applications (BCA) background and a strong interest in building practical, data-driven solutions.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+My work focuses on transforming raw datasets into meaningful insights through statistical analysis, machine learning, predictive modeling, and interactive applications.
 
-### 📊 Data Analysis & Visualization
+I enjoy working across the data lifecycle — from data preparation and exploratory analysis to model development, evaluation, and application deployment.
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+**Current Focus**
 
-### 🤖 Machine Learning
-
-![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### ⚙️ Development Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+- Developing machine learning and predictive analytics solutions.
+- Strengthening Python, SQL, statistics, and data visualization skills.
+- Building interactive applications using Streamlit.
+- Exploring business intelligence and real-world analytical use cases.
+- Seeking opportunities in Data Science and Data Analytics.
 
 ---
 
-## 🚀 Featured Projects
+## 02 / TECHNICAL EXPERTISE
 
-### 🌊 FloodGuard | Flood Risk Prediction & Early Warning Intelligence
+### Programming & Data Management
 
-**Tech Stack:** Python · Random Forest · Scikit-learn · Pandas · NumPy · Plotly · Streamlit
+\<p>
+\<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)" />
+\<img src="[https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)" />
+\</p>
 
-Developed a machine learning-based river monitoring system that analyzes historical water levels and rainfall, predicts next-day flood-risk categories, and identifies potential risk escalation.
+### Data Analysis & Visualization
 
-**Key Highlights:**
+\<p>
+\<img src="[https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)" />
+\<img src="[https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)" />
+\<img src="[https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)" />
+\<img src="[https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge\&logo=plotly\&logoColor=white)" />
+\<img src="[https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)" />
+\<img src="[https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)" />
+\</p>
+
+### Machine Learning & Application Development
+
+\<p>
+\<img src="[https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)" />
+\<img src="[https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)" />
+\<img src="[https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)" />
+\</p>
+
+### Development & Version Control
+
+\<p>
+\<img src="[https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)" />
+\<img src="[https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
+\<img src="[https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)" />
+\</p>
+
+---
+
+## 03 / SELECTED PROJECTS
+
+A collection of applied machine learning and data analytics projects focused on real-world problem solving.
+
+### 01. FloodGuard AI
+
+**Flood Risk Prediction & Early Warning Intelligence**
+
+`Python` `Random Forest` `Scikit-learn` `Pandas` `NumPy` `Plotly` `Streamlit`
+
+An ML-based river monitoring prototype that analyzes historical water levels and rainfall to predict next-day flood-risk categories and identify potential risk escalation.
+
+**Technical Contributions**
+
 - Processed approximately **3.99 million historical station-day observations** from CWC-derived Indian river monitoring data.
-- Developed a Random Forest classifier to predict **Low, Medium, and High** next-day risk categories.
-- Achieved **97.91% accuracy** and **0.85 High Risk F1-score** on the chronological test dataset.
-- Built a separate Risk Escalation model to identify stations that may newly enter High Risk.
+- Developed a Random Forest classifier for Low, Medium, and High risk prediction.
+- Achieved **97.91% classification accuracy** and **0.85 High Risk F1-score** on the chronological test dataset.
+- Developed a separate risk escalation model to identify stations potentially entering High Risk.
 - Achieved **34.3% escalation recall** and **0.288 F1-score** on validation data using a 0.60 alert-score threshold.
-- Developed an interactive Streamlit dashboard with station monitoring, water-level trends, risk predictions, and batch CSV analysis.
-- Integrated station-specific warning and danger thresholds, downloadable predictions, and model limitations.
+- Built an interactive dashboard featuring station monitoring, water-level trends, risk predictions, and batch CSV analysis.
 
-**Model Evaluation:** Risk Classification Accuracy: 97.91% | High Risk F1: 0.85 | Escalation Validation F1: 0.288
+**Model Evaluation:** Accuracy: 97.91% | High Risk F1: 0.85 | Escalation F1: 0.288
 
-*Research prototype using historical observations and threshold-based risk labels, not confirmed flood events or live flood warnings.*
+*Research prototype using historical observations and threshold-based labels; not a live flood warning system.*
 
-🔗 **[View Project on GitHub](https://github.com/namrataamali/FloodGuard-AI)**
+[View Repository →](https://github.com/namrataamali/FloodGuard-AI)
 
 ---
 
-### ⚡ EnergyWatch | Smart Electricity Monitoring & Anomaly Detection
+### 02. EnergyWatch AI
 
-**Tech Stack:** Python · Isolation Forest · Scikit-learn · Pandas · Plotly · Streamlit
+**Electricity Consumption Analytics & Anomaly Detection**
 
-Developed an intelligent electricity monitoring application that analyzes household power consumption, detects unusual usage patterns, and provides risk-based energy recommendations.
+`Python` `Isolation Forest` `Scikit-learn` `Pandas` `Plotly` `Streamlit`
 
-**Key Highlights:**
+An intelligent electricity monitoring application designed to identify unusual household consumption patterns and provide risk-based energy insights.
+
+**Technical Contributions**
+
 - Analyzed **34,168 hourly electricity records** from the UCI Household Electric Power Consumption dataset.
-- Implemented Isolation Forest to identify **1,709 statistical anomalies**.
-- Achieved a **Silhouette Score of 0.5853** for predicted-group separation.
+- Implemented Isolation Forest for unsupervised anomaly detection.
+- Identified **1,709 statistical anomalies** in electricity consumption.
+- Achieved a **0.5853 Silhouette Score** for predicted-group separation.
 - Developed Low, Medium, and High anomaly risk classifications.
-- Built an interactive Streamlit dashboard with consumption trends, anomaly visualization, and smart recommendations.
-- Integrated CSV upload, automated anomaly analysis, and downloadable reports.
+- Built an interactive dashboard with consumption trends, anomaly visualization, CSV uploads, and downloadable reports.
 
 **Model Evaluation:** Silhouette Score: 0.5853 | Anomaly Rate: 5.00%
 
-*Anomalies represent unusual consumption patterns rather than confirmed electrical faults.*
+*Detected anomalies indicate unusual consumption patterns, not confirmed electrical faults.*
 
-🔗 **[View Project on GitHub](https://github.com/namrataamali/EnergyWatch-AI)**
+[View Repository →](https://github.com/namrataamali/EnergyWatch-AI)
 
 ---
 
-### 🏭 MachineGuard AI | Predictive Maintenance & Failure Risk Assessment
+### 03. MachineGuard AI
 
-**Tech Stack:** Python · Random Forest · Scikit-learn · Pandas · Streamlit
+**Predictive Maintenance & Equipment Failure Assessment**
 
-Developed a machine learning-based predictive maintenance system to identify potential equipment failures, assess operational risk, and support preventive maintenance decisions.
+`Python` `Random Forest` `Scikit-learn` `Pandas` `Streamlit`
 
-**Key Highlights:**
-- Used the UCI AI4I 2020 Predictive Maintenance dataset containing **10,000 equipment records**.
-- Trained a Random Forest classifier to predict machine failure.
+A predictive maintenance solution that evaluates equipment operating conditions and identifies potential machine failure risks to support preventive maintenance decisions.
+
+**Technical Contributions**
+
+- Worked with the UCI AI4I 2020 dataset containing **10,000 equipment records**.
+- Developed a Random Forest classification model for machine failure prediction.
 - Improved failure detection recall from **40% to 74%** through threshold optimization.
 - Achieved approximately **68% precision and 70% F1-score** for failure detection.
 - Implemented risk assessment and rule-based maintenance recommendations.
-- Developed an interactive Streamlit dashboard for equipment monitoring and predictions.
+- Developed an interactive Streamlit application for equipment monitoring and predictions.
 
-**Model Evaluation:** Precision: 68% | Recall: 74% | F1-Score: 70%
+**Model Evaluation:** Precision: 68% | Recall: 74% | F1-score: 70%
 
 *The AI4I dataset contains synthetic predictive-maintenance observations.*
 
-🔗 **[View Project on GitHub](https://github.com/namrataamali/MachineGuard-AI)**
+[View Repository →](https://github.com/namrataamali/MachineGuard-AI)
 
 ---
 
-### 🩺 Diabetes Prediction System | Machine Learning & Streamlit
+### 04. DiaSense AI
 
-**Tech Stack:** Python · Logistic Regression · Scikit-learn · Streamlit · Jupyter Notebook
+**Diabetes Risk Prediction & Interactive Health Analytics**
 
-Developed a machine learning-based application that predicts diabetes outcomes using patient health indicators through an interactive Streamlit interface.
+`Python` `Logistic Regression` `Scikit-learn` `Pandas` `Streamlit` `Plotly`
 
-**Key Highlights:**
-- Built a diabetes prediction model using Logistic Regression.
-- Developed an interactive Streamlit application for user input and predictions.
-- Integrated the trained machine learning model into the application.
-- Implemented prediction results with estimated diabetes probability.
-- Organized the project with a Jupyter notebook, saved model, and application code.
+An interactive machine learning application that explores diabetes-related health indicators and provides model-based predictions using Logistic Regression.
 
-🔗 **[View Project on GitHub](https://github.com/namrataamali/Diabetes_Streamlit)**
+**Technical Contributions**
 
----
+- Developed a diabetes prediction model using patient health indicators.
+- Integrated the trained Logistic Regression model into a multi-page Streamlit application.
+- Implemented interactive health-input forms and probability-based prediction results.
+- Created an analytics interface for exploring dataset distributions, health indicators, and correlations.
+- Added model evaluation visualizations, including confusion matrix analysis.
+- Designed a structured application with prediction history and an informative user interface.
 
-## 🎯 Areas of Interest
+[View Repository →](https://github.com/namrataamali/Diabetes_Streamlit)
 
-- **Data Analytics:** Data cleaning, exploratory analysis, and extracting actionable insights.
-- **Data Visualization:** Creating meaningful dashboards and communicating findings.
-- **Machine Learning:** Developing predictive models, classification systems, and anomaly detection solutions.
-- **Business Intelligence:** Understanding business performance through data.
-- **Statistics:** Applying statistical concepts to support data-driven decisions.
+*Educational machine learning project. Predictions are not medical diagnoses.*
 
 ---
 
-## 📚 Currently Learning
+## 04 / AREAS OF INTEREST
 
-- Advanced Data Analysis using Python and SQL
-- Machine Learning Algorithms and Model Evaluation
-- Exploratory Data Analysis and Feature Engineering
-- Interactive Dashboards and Business Intelligence
-- Real-world Data Science Project Development
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=namrataamali&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namrataamali&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
+| Domain                | Focus Areas                              |
+| --------------------- | ---------------------------------------- |
+| Data Science          | Predictive Modeling, Machine Learning    |
+| Data Analytics        | Data Cleaning, EDA, Statistical Analysis |
+| Business Intelligence | Dashboard Development, Business Insights |
+| Data Visualization    | Interactive Charts, Data Storytelling    |
+| Applied AI            | Classification, Anomaly Detection        |
 
 ---
 
-## 📈 Contribution Activity
+## 05 / EDUCATION & CONTINUOUS LEARNING
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=namrataamali&theme=tokyo-night&hide_border=true" width="95%" />
-</p>
+**Bachelor of Computer Applications (BCA)**
 
----
+**Professional Training:** Postgraduate Program in Data Science & Analytics with GenAI — Imarticus Learning.
 
-## 🤝 Let's Connect
+**Currently Strengthening**
 
-I'm always interested in learning, collaborating, and exploring opportunities in Data Science and Analytics.
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/namratamali1308/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://medium.com/@namratam074">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
-  </a>
-  <a href="https://github.com/namrataamali">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Open to Data Analyst & Data Science Internships | Entry-Level Opportunities</b>
-</p>
+- Advanced Python, SQL, and data manipulation.
+- Statistical analysis and machine learning.
+- Feature engineering and model evaluation.
+- Power BI and business intelligence.
+- Practical data science application development.
 
 ---
 
-<p align="center">
-  <i>"Learning from data, one insight at a time."</i>
-</p>
+## 06 / GITHUB ACTIVITY
+
+\<p align="center">   \<img height="165" src="[https://github-readme-stats.vercel.app/api?username=namrataamali&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github](https://github-readme-stats.vercel.app/api?username=namrataamali\&show_icons=true\&theme=tokyonight\&hide_border=true\&rank_icon=github)" />   \<img height="165" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=namrataamali&layout=compact&theme=tokyonight&hide_border=true](https://github-readme-stats.vercel.app/api/top-langs/?username=namrataamali\&layout=compact\&theme=tokyonight\&hide_border=true)" /> \</p>
+
+\<p align="center">   \<img width="95%" src="[https://github-readme-activity-graph.vercel.app/graph?username=namrataamali&theme=tokyo-night&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=namrataamali\&theme=tokyo-night\&hide_border=true)" /> \</p>
+
+---
+
+## 07 / CONNECT
+
+Interested in collaborating, exchanging ideas, and contributing to data-driven projects.
+
+\<p align="center">
+&#x20; \<a href="[https://www.linkedin.com/in/namratamali1308/](https://www.linkedin.com/in/namratamali1308/)">
+&#x20;   \<img src="[https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)" />
+&#x20; \</a>
+&#x20; \<a href="[https://github.com/namrataamali](https://github.com/namrataamali)">
+&#x20;   \<img src="[https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/badge/Explore_My_GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)" />
+&#x20; \</a>
+&#x20; \<a href="[https://medium.com/@namratam074](https://medium.com/@namratam074)">
+&#x20;   \<img src="[https://img.shields.io/badge/Read_My_Articles-000000?style=for-the-badge&logo=medium&logoColor=white](https://img.shields.io/badge/Read_My_Articles-000000?style=for-the-badge\&logo=medium\&logoColor=white)" />
+&#x20; \</a>
+\</p>
+
+\<p align="center">
+&#x20; \<i>Curiosity drives discovery. Data drives decisions.\</i>
+\</p>
