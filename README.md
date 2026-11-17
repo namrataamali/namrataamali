@@ -78,20 +78,21 @@ I enjoy solving practical problems through analytical thinking, experimentation,
 
 `Python` `Random Forest` `Scikit-learn` `Pandas` `NumPy` `Plotly` `Streamlit`
 
-A machine learning-based river monitoring prototype that analyzes historical water levels and rainfall to predict next-day flood-risk categories and identify potential risk escalation.
+A machine learning research prototype that analyzes historical Indian river-station observations to classify next-day water-level risk and identify potential transitions into High Risk.
 
 **Key Highlights**
 
-- Processed approximately **3.99 million historical station-day observations** from CWC-derived Indian river monitoring data.
-- Developed a Random Forest classifier for Low, Medium, and High risk prediction.
-- Achieved **97.91% accuracy** and **0.85 High Risk F1-score** on the chronological test dataset.
-- Developed a separate risk escalation model to identify stations potentially entering High Risk.
-- Achieved **34.3% escalation recall** and **0.288 F1-score** on validation data.
-- Built an interactive Streamlit dashboard with station monitoring, risk predictions, water-level trends, and batch CSV analysis.
+- Worked with approximately **3.86 million consecutive-day labelled examples** across **932 river monitoring stations**.
+- Developed a Random Forest classifier to predict Low, Medium, and High water-level risk categories.
+- Achieved **97.91% accuracy** and **0.85 High-Risk F1-score** on chronological test data.
+- Evaluated the classifier against a persistence baseline, which achieved 98.59% accuracy.
+- Developed a separate Random Forest escalation model to identify potential transitions into High Risk.
+- Achieved **34.3% recall, 24.9% precision, and 0.288 F1-score** on historical validation data.
+- Built an interactive Streamlit dashboard featuring station monitoring, historical trends, risk predictions, and batch CSV analysis.
 
-**Evaluation:** Accuracy 97.91% | High Risk F1 0.85 | Escalation F1 0.288
+**Model Evaluation:** Accuracy 97.91% | High-Risk F1 0.85 | Escalation F1 0.288
 
-*Research prototype based on historical observations and threshold-derived labels, not confirmed flood events or live warnings.*
+*Research prototype using historical observations and threshold-derived labels. It is not an official flood warning system and does not provide live measurements or verified flood-event predictions.*
 
 [Explore FloodGuard on GitHub →](https://github.com/namrataamali/FloodGuard)
 
