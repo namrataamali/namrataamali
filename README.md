@@ -72,9 +72,8 @@ I enjoy solving practical problems through analytical thinking, experimentation,
 
 ---
 
-## 03 — FEATURED PROJECTS
-
 ### 01. FloodGuard
+
 **Flood Risk Prediction & Early Warning Intelligence**
 
 `Python` `Random Forest` `Scikit-learn` `Pandas` `NumPy` `Plotly` `Streamlit`
@@ -82,6 +81,7 @@ I enjoy solving practical problems through analytical thinking, experimentation,
 A machine learning-based river monitoring prototype that analyzes historical water levels and rainfall to predict next-day flood-risk categories and identify potential risk escalation.
 
 **Key Highlights**
+
 - Processed approximately **3.99 million historical station-day observations** from CWC-derived Indian river monitoring data.
 - Developed a Random Forest classifier for Low, Medium, and High risk prediction.
 - Achieved **97.91% accuracy** and **0.85 High Risk F1-score** on the chronological test dataset.
@@ -93,9 +93,7 @@ A machine learning-based river monitoring prototype that analyzes historical wat
 
 *Research prototype based on historical observations and threshold-derived labels, not confirmed flood events or live warnings.*
 
-[Explore FloodGuard on GitHub →](https://github.com/namrataamali/FloodGuard-AI)
-
----
+[Explore FloodGuard on GitHub →](https://github.com/namrataamali/FloodGuard)
 
 ### 02. EnergyWatch AI
 **Electricity Consumption Analytics & Anomaly Detection**
