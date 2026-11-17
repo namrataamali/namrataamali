@@ -142,22 +142,25 @@ A machine learning-based predictive maintenance system designed to identify pote
 
 ---
 
-### 04. DiaSense AI
+### 4. DiaSense AI
+
 **Diabetes Prediction & Interactive Health Analytics**
 
-`Python` `Logistic Regression` `Scikit-learn` `Pandas` `Streamlit` `Plotly`
+`Python` `Logistic Regression` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Streamlit`
 
-An interactive machine learning application that explores diabetes-related health indicators and provides model-based predictions using Logistic Regression.
+An interactive machine learning application that analyses diabetes-related health indicators and generates model-based predictions using Logistic Regression.
 
 **Key Highlights**
-- Developed a diabetes prediction model using patient health indicators.
-- Integrated the trained model into a multi-page Streamlit application.
-- Implemented interactive input forms and probability-based prediction results.
-- Created an analytics interface for dataset distributions, health indicators, and correlation analysis.
-- Added model evaluation visualizations, including confusion matrix analysis.
-- Designed an interactive application with prediction history and a modern interface.
 
-[Explore DiaSense on GitHub →](https://github.com/namrataamali/Diabetes_Streamlit)
+- Developed a diabetes prediction model using eight health-related input features.
+- Integrated the trained machine learning model into a multi-page Streamlit application.
+- Implemented interactive health inputs and probability-based prediction results.
+- Built an analytics dashboard for dataset exploration, health indicator comparisons, and correlation analysis.
+- Visualised model performance through confusion matrices and classification reports.
+- Added session-based prediction history with CSV download functionality.
+- Designed a modern, responsive interface with interactive visualisations.
+
+[Explore DiaSense AI on GitHub →](https://github.com/namrataamali/Diabetes_Streamlit)
 
 *Educational machine learning project. Predictions are not medical diagnoses.*
 
