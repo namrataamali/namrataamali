@@ -86,8 +86,6 @@ Imarticus Learning, Pune
 
 <div align="center">
 
-*Exploring real-world problems through data, machine learning, and intelligent applications.*
-
 </div>
 
 ### 🌊 01 — FloodGuard AI
