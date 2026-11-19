@@ -1,6 +1,4 @@
 
-<!-- ================= HEADER ================= -->
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B1220,50:173B68,100:3B82F6&text=Namrata%20Mali&fontColor=FFFFFF&fontSize=52&fontAlignY=39&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Applied%20AI&descAlignY=60&descSize=17&animation=fadeIn" width="100%" alt="Namrata Mali"/>
@@ -15,7 +13,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:namratam074@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 </p>
 
@@ -23,9 +21,7 @@
 
 ---
 
-<!-- ================= ABOUT ME ================= -->
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=01%20%E2%80%94%20ABOUT%20ME&fontSize=27&fontColor=3B82F6&fontAlign=18&fontAlignY=50" alt="01 — ABOUT ME"/>
+## 01 — ABOUT ME
 
 I'm a **BCA graduate and aspiring Data Science professional**, currently pursuing a **Postgraduate Program in Data Science & Analytics with Generative AI** at Imarticus Learning, Pune.
 
@@ -38,9 +34,7 @@ I work on projects involving **predictive modeling, anomaly detection, and inter
 
 ---
 
-<!-- ================= TECH STACK ================= -->
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=02%20%E2%80%94%20TECH%20STACK&fontSize=27&fontColor=3B82F6&fontAlign=18&fontAlignY=50" alt="02 — TECH STACK"/>
+## 02 — TECH STACK
 
 ### Programming & Databases
 
@@ -73,9 +67,7 @@ I work on projects involving **predictive modeling, anomaly detection, and inter
 
 ---
 
-<!-- ================= EDUCATION ================= -->
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=03%20%E2%80%94%20EDUCATION&fontSize=27&fontColor=3B82F6&fontAlign=18&fontAlignY=50" alt="03 — EDUCATION"/>
+## 03 — EDUCATION
 
 🎓 **Bachelor of Computer Applications (BCA)**  
 Savitribai Phule Pune University
@@ -85,9 +77,7 @@ Imarticus Learning, Pune
 
 ---
 
-<!-- ================= PROJECTS ================= -->
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=04%20%E2%80%94%20FEATURED%20PROJECTS&fontSize=27&fontColor=3B82F6&fontAlign=23&fontAlignY=50" alt="04 — FEATURED PROJECTS"/>
+## 04 — FEATURED PROJECTS
 
 ### 🌊 01 — FloodGuard AI
 
@@ -161,9 +151,7 @@ An end-to-end machine learning application combining diabetes risk classificatio
 
 ---
 
-<!-- ================= GITHUB ANALYTICS ================= -->
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=05%20%E2%80%94%20GITHUB%20ANALYTICS&fontSize=27&fontColor=3B82F6&fontAlign=23&fontAlignY=50" alt="05 — GITHUB ANALYTICS"/>
+## 05 — GITHUB ANALYTICS
 
 <div align="center">
 
@@ -177,9 +165,7 @@ An end-to-end machine learning application combining diabetes risk classificatio
 
 ---
 
-<!-- ================= CONNECT ================= -->
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=60&text=06%20%E2%80%94%20LET'S%20CONNECT&fontSize=27&fontColor=3B82F6&fontAlign=20&fontAlignY=50" alt="06 — LET'S CONNECT"/>
+## 06 — LET'S CONNECT
 
 I'm open to opportunities in **Data Science, Data Analytics, and Machine Learning**, as well as connecting with professionals who share an interest in data-driven technology.
 
