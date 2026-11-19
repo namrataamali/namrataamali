@@ -1,13 +1,29 @@
 
+
 <div align="center">
 
-# Hi there, I'm Namrata Mali 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0F172A,50:155E75,100:7C3AED&text=Namrata%20Mali&fontColor=FFFFFF&fontSize=52&fontAlignY=39&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Applied%20AI&descAlignY=60&descSize=17&animation=fadeIn" width="100%" alt="Namrata Mali GitHub Banner"/>
 
-### Data Science • Machine Learning • Analytics • Applied AI
+<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Turning+Data+into+Meaningful+Insights;Building+Intelligent+ML+Applications;Exploring+Machine+Learning+%26+GenAI;Learning+%7C+Building+%7C+Improving)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=Turning+Data+into+Meaningful+Insights;Building+Intelligent+ML+Applications;Exploring+Machine+Learning+%26+GenAI" alt="Typing SVG"/>
+</a>
 
-*Exploring patterns. Building solutions. Making data meaningful.*
+<br>
+
+<a href="https://www.linkedin.com/in/namrata-mali-966b82318/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/namrataamali">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="mailto:namratam074@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
 
 <br>
 
