@@ -17,18 +17,16 @@
 
 ---
 
-
 ## 01 — ABOUT ME
 
 I'm a **BCA graduate and aspiring Data Science professional**, currently pursuing a **Postgraduate Program in Data Science & Analytics with Generative AI** at Imarticus Learning, Pune.
 
-I enjoy working across the data science workflow — from exploring datasets and identifying patterns to developing machine learning models and building interactive applications.
+I work on projects involving **predictive modeling, anomaly detection, and interactive data applications**, applying machine learning techniques to practical datasets.
 
-- 💻 **Technical focus:** Python, SQL, Machine Learning, Power BI, and Data Analytics.
-- 🚀 **Hands-on experience:** Building predictive models, anomaly detection systems, and Streamlit dashboards.
+- 💻 **Core skills:** Python, SQL, Machine Learning, Power BI, and Data Analytics.
+- 🚀 **Projects:** Developed ML applications for healthcare, flood risk, energy analytics, and predictive maintenance.
 - 🤖 **Exploring:** Deep Learning, NLP, Generative AI, LLMs, and RAG.
-- 📊 **Project interests:** Applying data science to healthcare, environmental monitoring, energy analytics, and predictive maintenance.
-- 🎯 **Career goal:** Seeking opportunities in Data Science, Data Analytics, and Machine Learning.
+- 🎯 **Career focus:** Data Science, Data Analytics, and Machine Learning opportunities.
 
 
 ---
