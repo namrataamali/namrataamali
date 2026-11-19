@@ -163,19 +163,21 @@ An end-to-end machine learning application combining diabetes risk classificatio
 
 ---
 
+
 ## 05 — GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=namrataamali&show_icons=true&theme=transparent&title_color=D9AD91&icon_color=D9AD91&text_color=F5EDE7&border_color=713F50&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+<img src="https://streak-stats.demolab.com?user=namrataamali&background=21171C&ring=D9AD91&fire=D9AD91&currStreakLabel=D9AD91&sideLabels=F5EDE7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=BFA9B1&stroke=713F50&border=713F50&hide_border=true" height="170" alt="GitHub Contribution Streak"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namrataamali&layout=compact&theme=transparent&title_color=D9AD91&text_color=F5EDE7&hide_border=true" alt="Most Used Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namrataamali&layout=compact&bg_color=21171C&title_color=D9AD91&text_color=F5EDE7&border_color=713F50&hide_border=true" height="170" alt="Most Used Languages"/>
 
 <br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=namrataamali&bg_color=21171C&color=D9AD91&line=D9AD91&point=F5EDE7&area=true&area_color=713F50&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
 
 </div>
+
 
 ---
 
