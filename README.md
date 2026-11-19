@@ -15,13 +15,9 @@
 
 </div>
 
-<br>
+---
 
-<!-- ABOUT ME -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:38241F,50:795548,100:A87959&text=01%20-%20ABOUT%20ME&fontColor=FFF4E8&fontSize=24&fontAlignY=52" width="100%" alt="01 - About Me"/>
-
-<br>
+## 01 — ABOUT ME
 
 I'm an aspiring **Data Science & Machine Learning professional** with a background in Computer Applications, passionate about transforming complex datasets into meaningful insights and practical AI-powered solutions.
 
@@ -35,13 +31,9 @@ I enjoy combining analytical thinking, experimentation, and technology to solve 
 - 🎯 **Career interests:** Data Science, Data Analytics, and Applied AI
 - 📍 **Location:** Pune, India
 
-<br>
+---
 
-<!-- TECH STACK -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:38241F,50:795548,100:A87959&text=02%20-%20TECH%20STACK&fontColor=FFF4E8&fontSize=24&fontAlignY=52" width="100%" alt="02 - Tech Stack"/>
-
-<br>
+## 02 — TECH STACK
 
 <div align="center">
 
@@ -69,13 +61,9 @@ I enjoy combining analytical thinking, experimentation, and technology to solve 
 
 </div>
 
-<br>
+---
 
-<!-- FEATURED PROJECTS -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:38241F,50:795548,100:A87959&text=03%20-%20FEATURED%20PROJECTS&fontColor=FFF4E8&fontSize=24&fontAlignY=52" width="100%" alt="03 - Featured Projects"/>
-
-<br>
+## 03 — FEATURED PROJECTS
 
 <div align="center">
 
@@ -157,15 +145,9 @@ An end-to-end machine learning application combining diabetes prediction, model 
 
 <sub>Educational machine learning application; predictions are not medical diagnoses.</sub>
 
-<br>
+---
 
-
-<!-- 04 — EDUCATION & LEARNING -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;height=65&amp;color=0:38241F,50:795548,100:A87959&amp;text=04%20-%20EDUCATION%20%26%20LEARNING&amp;fontColor=FFF4E8&amp;fontSize=24&amp;fontAlignY=52" width="100%" alt="04 - Education and Learning"/>
-
-
-<br>
+## 04 — EDUCATION & LEARNING
 
 🎓 **Bachelor of Computer Applications (BCA)**
 
@@ -180,13 +162,9 @@ Imarticus Learning, Pune
 
 🏅 **IBM SkillsBuild — Retrieval-Augmented Generation for Enhanced AI Outputs**
 
-<br>
+---
 
-<!-- GITHUB STATISTICS -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:38241F,50:795548,100:A87959&text=05%20-%20GITHUB%20ANALYTICS&fontColor=FFF4E8&fontSize=24&fontAlignY=52" width="100%" alt="05 - GitHub Analytics"/>
-
-<br>
+## 05 — GITHUB ANALYTICS
 
 <div align="center">
 
@@ -200,13 +178,9 @@ Imarticus Learning, Pune
 
 </div>
 
-<br>
+---
 
-<!-- CONNECT -->
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:38241F,50:795548,100:A87959&text=06%20-%20LET%27S%20CONNECT&fontColor=FFF4E8&fontSize=24&fontAlignY=52" width="100%" alt="06 - Let's Connect"/>
-
-<br>
+## 06 — LET'S CONNECT
 
 <div align="center">
 
@@ -227,7 +201,5 @@ I'm interested in connecting with people who enjoy working with data, developing
 ### Think Analytically. Build Intelligently. Create Impact.
 
 *Thanks for visiting my GitHub profile!*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:2C1E1A,50:795548,100:B88765" width="100%" alt="Decorative brown footer"/>
 
 </div>
