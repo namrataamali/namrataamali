@@ -1,13 +1,13 @@
 
 <!-- ======================================= -->
-<!--             PROFILE HEADER              -->
+<!--              PROFILE HEADER             -->
 <!-- ======================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:21171C,50:713F50,100:D9AD91&text=Namrata%20Mali&fontColor=FFFFFF&fontSize=52&fontAlignY=39&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Data%20Analytics&descAlignY=60&descSize=17&animation=fadeIn" width="100%" alt="Namrata Mali"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:21171C,50:713F50,100:D9AD91&text=Namrata%20Mali&fontColor=FFFFFF&fontSize=52&fontAlignY=39&desc=Data%20Analytics%20%7C%20Data%20Science%20%7C%20Machine%20Learning&descAlignY=60&descSize=17&animation=fadeIn" width="100%" alt="Namrata Mali — Data Analytics, Data Science and Machine Learning"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=D9AD91&center=true&vCenter=true&width=650&lines=Aspiring+Data+Science+Professional;Python+%7C+SQL+%7C+Machine+Learning;Building+Practical+Data-Driven+Applications" alt="Typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=D9AD91&center=true&vCenter=true&width=650&lines=Aspiring+Data+Analyst+%7C+Data+Science+Enthusiast;Python+%7C+SQL+%7C+Excel+%7C+Power+BI;Turning+Data+into+Meaningful+Insights" alt="Typing introduction"/>
 
 <p>
 <a href="https://github.com/namrataamali">
@@ -27,14 +27,15 @@
 
 ## 01 — ABOUT ME
 
-I'm a **BCA graduate and aspiring Data Science professional**, currently pursuing a **Postgraduate Program in Data Science & Analytics with Generative AI** at Imarticus Learning, Pune.
+I'm a **BCA graduate and aspiring Data Analyst**, currently pursuing a **Postgraduate Program in Data Science & Analytics with Generative AI** at Imarticus Learning, Pune.
 
-I work on projects involving **predictive modeling, anomaly detection, and interactive data applications**, applying machine learning techniques to practical datasets.
+I work across the data analytics lifecycle — from **data cleaning, exploratory data analysis (EDA), and visualization to statistical analysis, predictive modeling, and interactive dashboards**. I enjoy exploring datasets, identifying meaningful patterns, and communicating insights through data-driven applications.
 
-- 💻 **Core skills:** Python, SQL, Machine Learning, Power BI, and Data Analytics.
-- 🚀 **Projects:** Developed ML applications for healthcare, flood risk, energy analytics, and predictive maintenance.
-- 🤖 **Exploring:** Deep Learning, NLP, Generative AI, LLMs, and RAG.
-- 🎯 **Career focus:** Data Science, Data Analytics, and Machine Learning opportunities.
+- 📊 **Core skills:** Python, SQL, Excel, Power BI, Data Analysis, and Data Visualization.
+- 💻 **Hands-on experience:** Data preprocessing, EDA, predictive modeling, and interactive dashboards.
+- 🚀 **Projects:** Developed analytical and ML applications for healthcare, flood risk, energy consumption, and predictive maintenance.
+- 🤖 **Exploring:** Machine Learning, Deep Learning, NLP, Generative AI, LLMs, and RAG.
+- 🎯 **Career focus:** Data Analyst, Data Scientist, and Machine Learning opportunities.
 
 ---
 
@@ -87,9 +88,9 @@ Imarticus Learning, Pune
 
 **River Flood Risk Intelligence & Predictive Analytics**
 
-`Python` `Random Forest` `Scikit-learn` `Pandas` `Plotly` `Streamlit`
+`Python` `Pandas` `Data Analysis` `Random Forest` `Plotly` `Streamlit`
 
-A machine learning research prototype that analyzes historical Indian river monitoring data to estimate next-day flood risk.
+A data-driven application that analyzes historical Indian river monitoring records to explore water-level patterns and estimate next-day flood risk.
 
 - Analyzed approximately **3.99 million station-day observations**.
 - Developed a Random Forest risk classifier achieving **97.91% accuracy** and **0.85 High-Risk F1-score**.
@@ -105,11 +106,11 @@ A machine learning research prototype that analyzes historical Indian river moni
 
 ### ⚡ 02 — EnergyWatch AI
 
-**Electricity Consumption & Anomaly Detection Analytics**
+**Electricity Consumption Analytics & Anomaly Detection**
 
-`Python` `Pandas` `Scikit-learn` `Isolation Forest` `Streamlit`
+`Python` `Pandas` `EDA` `Data Visualization` `Isolation Forest` `Streamlit`
 
-A data analytics application designed to explore electricity consumption patterns and identify unusual usage observations.
+A data analytics application that explores electricity consumption patterns and identifies unusual usage observations.
 
 - Analyzed **34,168 hourly electricity records**.
 - Applied Isolation Forest to flag **1,709 potential anomalies**.
@@ -125,11 +126,11 @@ A data analytics application designed to explore electricity consumption pattern
 
 ### ⚙️ 03 — MachineGuard AI
 
-**Predictive Maintenance & Industrial Risk Intelligence**
+**Predictive Maintenance & Industrial Risk Analytics**
 
-`Python` `Random Forest` `Scikit-learn` `Pandas` `Streamlit`
+`Python` `Pandas` `Scikit-learn` `Random Forest` `Streamlit`
 
-A machine learning application that estimates industrial equipment failure risk using operating measurements.
+A predictive analytics application that evaluates industrial operating measurements to estimate equipment failure risk.
 
 - Trained on **10,000 synthetic industrial observations** from the AI4I 2020 dataset.
 - Improved failure-class recall from **40% to 74%** through threshold optimization.
@@ -147,7 +148,7 @@ A machine learning application that estimates industrial equipment failure risk 
 
 **Diabetes Prediction & Interactive Health Analytics**
 
-`Python` `Logistic Regression` `Scikit-learn` `Pandas` `Streamlit`
+`Python` `Pandas` `Logistic Regression` `Scikit-learn` `Data Visualization` `Streamlit`
 
 An end-to-end machine learning application combining diabetes risk classification with interactive health analytics.
 
@@ -163,14 +164,13 @@ An end-to-end machine learning application combining diabetes risk classificatio
 
 ---
 
-
 ## 05 — GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=namrataamali&background=21171C&ring=D9AD91&fire=D9AD91&currStreakLabel=D9AD91&sideLabels=F5EDE7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=BFA9B1&stroke=713F50&border=713F50&hide_border=true" height="170" alt="GitHub Contribution Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=namrataamali&show_icons=true&bg_color=21171C&title_color=D9AD91&icon_color=D9AD91&text_color=F5EDE7&hide_border=true&rank_icon=github" height="165" alt="GitHub Statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namrataamali&layout=compact&bg_color=21171C&title_color=D9AD91&text_color=F5EDE7&border_color=713F50&hide_border=true" height="170" alt="Most Used Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namrataamali&layout=compact&bg_color=21171C&title_color=D9AD91&text_color=F5EDE7&hide_border=true" height="165" alt="Programming Language Breakdown"/>
 
 <br>
 
@@ -178,12 +178,11 @@ An end-to-end machine learning application combining diabetes risk classificatio
 
 </div>
 
-
 ---
 
 ## 06 — LET'S CONNECT
 
-I'm open to opportunities in **Data Science, Data Analytics, and Machine Learning**, as well as connecting with professionals who share an interest in data-driven technology.
+I'm open to entry-level opportunities in **Data Analytics, Data Science, and Machine Learning**, where I can apply analytical thinking, technical skills, and project experience to meaningful challenges.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/namrata-mali-966b82318/">
