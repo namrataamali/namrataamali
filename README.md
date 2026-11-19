@@ -1,6 +1,6 @@
 
 <!-- ======================================= -->
-<!--              PROFILE HEADER             -->
+<!--             PROFILE HEADER              -->
 <!-- ======================================= -->
 
 <div align="center">
@@ -29,12 +29,12 @@
 
 I'm a **BCA graduate and aspiring Data Analyst**, currently pursuing a **Postgraduate Program in Data Science & Analytics with Generative AI** at Imarticus Learning, Pune.
 
-I work across the data analytics lifecycle — from **data cleaning, exploratory data analysis (EDA), and visualization to statistical analysis, predictive modeling, and interactive dashboards**. I enjoy exploring datasets, identifying meaningful patterns, and communicating insights through data-driven applications.
+My interests span the complete data analytics lifecycle — from **data cleaning, exploratory data analysis (EDA), and statistical analysis to visualization, predictive modeling, and interactive dashboards**. I enjoy working with real-world datasets to uncover patterns, solve analytical problems, and communicate meaningful insights.
 
-- 📊 **Core skills:** Python, SQL, Excel, Power BI, Data Analysis, and Data Visualization.
-- 💻 **Hands-on experience:** Data preprocessing, EDA, predictive modeling, and interactive dashboards.
-- 🚀 **Projects:** Developed analytical and ML applications for healthcare, flood risk, energy consumption, and predictive maintenance.
-- 🤖 **Exploring:** Machine Learning, Deep Learning, NLP, Generative AI, LLMs, and RAG.
+- 📊 **Core expertise:** Python, SQL, Excel, Power BI, and Data Visualization.
+- 💻 **Practical experience:** Data preprocessing, EDA, machine learning, and interactive analytical applications.
+- 🚀 **Projects:** Built data-driven solutions involving flood risk, energy consumption, industrial maintenance, and healthcare analytics.
+- 🤖 **Currently exploring:** Deep Learning, NLP, Generative AI, LLMs, and RAG.
 - 🎯 **Career focus:** Data Analyst, Data Scientist, and Machine Learning opportunities.
 
 ---
@@ -118,8 +118,8 @@ A data analytics application that explores electricity consumption patterns and 
 
 **Note:** Flagged anomalies are not confirmed equipment faults.
 
-<a href="https://github.com/namrataamali?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-713F50?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub Repositories"/>
+<a href="https://github.com/namrataamali/EnergyWatch-AI">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-D9AD91?style=for-the-badge&logo=github&logoColor=21171C" alt="View EnergyWatch Project"/>
 </a>
 
 ---
@@ -138,8 +138,8 @@ A predictive analytics application that evaluates industrial operating measureme
 
 **Note:** Educational demonstration using synthetic data.
 
-<a href="https://github.com/namrataamali?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-713F50?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub Repositories"/>
+<a href="https://github.com/namrataamali/MachineGuard-AI">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-D9AD91?style=for-the-badge&logo=github&logoColor=21171C" alt="View MachineGuard Project"/>
 </a>
 
 ---
@@ -164,51 +164,29 @@ An end-to-end machine learning application combining diabetes risk classificatio
 
 ---
 
-
-
-
 ## 05 — GITHUB ANALYTICS
 
 <div align="center">
 
 <!-- GITHUB STATISTICS + TOP LANGUAGES -->
 
-<table>
-<tr>
-<td align="center" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=namrataamali&show_icons=true&bg_color=21171C&title_color=D9AD91&icon_color=D9AD91&text_color=F5EDE7&hide_border=true&rank_icon=github" height="170" alt="GitHub Statistics"/>
 
-### GitHub Statistics
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namrataamali&layout=compact&bg_color=21171C&title_color=D9AD91&text_color=F5EDE7&hide_border=true" height="170" alt="Top Languages"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=namrataamali&show_icons=true&bg_color=21171C&title_color=D9AD91&icon_color=D9AD91&text_color=F5EDE7&border_color=713F50&hide_border=true" width="100%" alt="GitHub Statistics"/>
-
-</td>
-<td align="center" width="50%">
-
-### Top Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namrataamali&layout=compact&bg_color=21171C&title_color=D9AD91&text_color=F5EDE7&border_color=713F50&hide_border=true" width="100%" alt="Top Languages"/>
-
-</td>
-</tr>
-</table>
-
-<br>
+<br><br>
 
 <!-- CONTRIBUTION ACTIVITY -->
-
-### Contribution Activity
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=namrataamali&bg_color=21171C&color=D9AD91&line=D9AD91&point=F5EDE7&area=true&area_color=713F50&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
 
 </div>
 
-
-
 ---
 
 ## 06 — LET'S CONNECT
 
-I'm open to entry-level opportunities in **Data Analytics, Data Science, and Machine Learning**, where I can apply analytical thinking, technical skills, and project experience to meaningful challenges.
+I'm open to entry-level opportunities in **Data Analytics, Data Science, and Machine Learning**, where I can apply my analytical and technical skills to real-world challenges.
 
 <p align="left">
 <a href="https://www.linkedin.com/in/namrata-mali-966b82318/">
