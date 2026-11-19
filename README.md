@@ -1,19 +1,23 @@
 
+<!-- ======================================= -->
+<!--             PROFILE HEADER              -->
+<!-- ======================================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B1220,50:173B68,100:3B82F6&text=Namrata%20Mali&fontColor=FFFFFF&fontSize=52&fontAlignY=39&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Applied%20AI&descAlignY=60&descSize=17&animation=fadeIn" width="100%" alt="Namrata Mali"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:171B21,50:52535C,100:D18A65&text=Namrata%20Mali&fontColor=FFFFFF&fontSize=52&fontAlignY=39&desc=Data%20Science%20%7C%20Machine%20Learning%20%7C%20Data%20Analytics&descAlignY=60&descSize=17&animation=fadeIn" width="100%" alt="Namrata Mali"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Aspiring+Data+Science+Professional;Python+%7C+SQL+%7C+Machine+Learning;Building+Practical+Data-Driven+Applications" alt="Typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=D18A65&center=true&vCenter=true&width=650&lines=Aspiring+Data+Science+Professional;Python+%7C+SQL+%7C+Machine+Learning;Building+Practical+Data-Driven+Applications" alt="Typing introduction"/>
 
 <p>
 <a href="https://github.com/namrataamali">
 <img src="https://img.shields.io/badge/GitHub-171B21?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/in/namrata-mali-966b82318/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-52535C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="mailto:namratam074@gmail.com">
-<img src="https://img.shields.io/badge/Email-334155?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-D18A65?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 </p>
 
@@ -93,7 +97,9 @@ A machine learning research prototype that analyzes historical Indian river moni
 
 **Note:** Educational research prototype, not an official flood warning system.
 
-[View Project on GitHub](https://github.com/namrataamali/FloodGuard)
+<a href="https://github.com/namrataamali/FloodGuard">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-D18A65?style=for-the-badge&logo=github&logoColor=171B21" alt="View FloodGuard Project"/>
+</a>
 
 ---
 
@@ -111,7 +117,9 @@ A data analytics application designed to explore electricity consumption pattern
 
 **Note:** Flagged anomalies are not confirmed equipment faults.
 
-[Explore GitHub Repositories](https://github.com/namrataamali?tab=repositories)
+<a href="https://github.com/namrataamali?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-52535C?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub Repositories"/>
+</a>
 
 ---
 
@@ -129,7 +137,9 @@ A machine learning application that estimates industrial equipment failure risk 
 
 **Note:** Educational demonstration using synthetic data.
 
-[Explore GitHub Repositories](https://github.com/namrataamali?tab=repositories)
+<a href="https://github.com/namrataamali?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_REPOSITORIES-52535C?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub Repositories"/>
+</a>
 
 ---
 
@@ -147,7 +157,9 @@ An end-to-end machine learning application combining diabetes risk classificatio
 
 **Note:** Educational ML application, not a medical diagnosis tool.
 
-[View Project on GitHub](https://github.com/namrataamali/Diabetes_Streamlit)
+<a href="https://github.com/namrataamali/Diabetes_Streamlit">
+<img src="https://img.shields.io/badge/VIEW_PROJECT-D18A65?style=for-the-badge&logo=github&logoColor=171B21" alt="View DiaSense Project"/>
+</a>
 
 ---
 
@@ -155,11 +167,13 @@ An end-to-end machine learning application combining diabetes risk classificatio
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=namrataamali&show_icons=true&theme=transparent&title_color=3B82F6&icon_color=3B82F6&text_color=CBD5E1&border_color=334155&hide_border=false" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=namrataamali&show_icons=true&theme=transparent&title_color=D18A65&icon_color=D18A65&text_color=E7DED8&border_color=52535C&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namrataamali&layout=compact&theme=transparent&title_color=3B82F6&text_color=CBD5E1&border_color=334155" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=namrataamali&layout=compact&theme=transparent&title_color=D18A65&text_color=E7DED8&hide_border=true" alt="Most Used Languages"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=namrataamali&bg_color=0B1220&color=CBD5E1&line=3B82F6&point=60A5FA&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=namrataamali&bg_color=171B21&color=D18A65&line=D18A65&point=F5EDE7&area=true&area_color=52535C&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
 
 </div>
 
@@ -169,14 +183,22 @@ An end-to-end machine learning application combining diabetes risk classificatio
 
 I'm open to opportunities in **Data Science, Data Analytics, and Machine Learning**, as well as connecting with professionals who share an interest in data-driven technology.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/namrata-mali-966b82318/)
-- 💻 [GitHub](https://github.com/namrataamali)
-- 📧 [Email](mailto:namratam074@gmail.com)
+<p align="left">
+<a href="https://www.linkedin.com/in/namrata-mali-966b82318/">
+<img src="https://img.shields.io/badge/LinkedIn-52535C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/namrataamali">
+<img src="https://img.shields.io/badge/GitHub-171B21?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="mailto:namratam074@gmail.com">
+<img src="https://img.shields.io/badge/Email-D18A65?style=for-the-badge&logo=gmail&logoColor=171B21" alt="Email"/>
+</a>
+</p>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:173B68,100:3B82F6&height=110&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:171B21,50:52535C,100:D18A65&height=110&section=footer" width="100%" alt="Footer"/>
 
 </div>
