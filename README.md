@@ -166,24 +166,22 @@ An end-to-end machine learning application combining diabetes risk classificatio
 
 
 
-## 05 — EXPLORE MY WORK
+
+## 05 — GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/DATA_ANALYTICS-713F50?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analytics"/>
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-21171C?style=for-the-badge&logo=scikitlearn&logoColor=D9AD91" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/DATA_VISUALIZATION-713F50?style=for-the-badge&logo=plotly&logoColor=white" alt="Data Visualization"/>
-<img src="https://img.shields.io/badge/PREDICTIVE_ANALYTICS-21171C?style=for-the-badge&logo=python&logoColor=D9AD91" alt="Predictive Analytics"/>
+<!-- Contribution Streak -->
+
+<img src="https://streak-stats.demolab.com?user=namrataamali&theme=transparent&background=21171C&ring=D9AD91&fire=D9AD91&currStreakLabel=D9AD91&sideLabels=F5EDE7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=BFA9B1&stroke=713F50&hide_border=true" width="65%" alt="GitHub Contribution Streak"/>
 
 <br>
 
-Explore my repositories featuring data analysis, machine learning models, predictive analytics, and interactive dashboards.
+<!-- GitHub Statistics and Languages -->
 
-<br>
+<img src="https://github-readme-stats.vercel.app/api?username=namrataamali&show_icons=true&bg_color=21171C&title_color=D9AD91&icon_color=D9AD91&text_color=F5EDE7&hide_border=true&rank_icon=github" height="165" alt="GitHub Statistics"/>
 
-<a href="https://github.com/namrataamali?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB_PROJECTS-D9AD91?style=for-the-badge&logo=github&logoColor=21171C" alt="Explore My GitHub Projects"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namrataamali&layout=compact&bg_color=21171C&title_color=D9AD91&text_color=F5EDE7&hide_border=true" height="165" alt="Most Used Languages"/>
 
 </div>
 
