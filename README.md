@@ -27,9 +27,8 @@
 
 
 ---
-
-## ✦ 01 — ABOUT ME
-
+<!-- 01 — ABOUT ME -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:0F172A,50:155E75,100:7C3AED&text=01%20%E2%80%94%20ABOUT%20ME&fontColor=FFFFFF&fontSize=24&fontAlignY=52" width="100%" alt="01 - About Me"/>
 I'm an aspiring **Data Science & Machine Learning professional** with a background in Computer Applications, passionate about turning complex data into actionable insights and intelligent solutions.
 
 My interests span the complete data science lifecycle — from **data exploration and statistical analysis to predictive modeling and interactive application development**.
@@ -44,7 +43,8 @@ I enjoy combining analytical thinking, experimentation, and technology to solve 
 
 ---
 
-## ✦ 02 — TECH STACK
+<!-- 02 — TECH STACK -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:0F172A,50:155E75,100:7C3AED&text=02%20%E2%80%94%20TECH%20STACK&fontColor=FFFFFF&fontSize=24&fontAlignY=52" width="100%" alt="02 - Tech Stack"/>
 
 <div align="center">
 
@@ -71,8 +71,8 @@ I enjoy combining analytical thinking, experimentation, and technology to solve 
 </div>
 
 ---
-
-## ✦ 03 — FEATURED PROJECTS
+<!-- 03 — FEATURED PROJECTS -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:0F172A,50:155E75,100:7C3AED&text=03%20%E2%80%94%20FEATURED%20PROJECTS&fontColor=FFFFFF&fontSize=24&fontAlignY=52" width="100%" alt="03 - Featured Projects"/>
 
 <div align="center">
 
@@ -152,7 +152,8 @@ An end-to-end machine learning application combining diabetes prediction with in
 
 ---
 
-## ✦ 04 — EDUCATION & LEARNING
+<!-- 04 — EDUCATION & LEARNING -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:0F172A,50:155E75,100:7C3AED&text=04%20%E2%80%94%20EDUCATION%20%26%20LEARNING&fontColor=FFFFFF&fontSize=24&fontAlignY=52" width="100%" alt="04 - Education and Learning"/>
 
 🎓 **Bachelor of Computer Applications (BCA)**
 
@@ -169,7 +170,8 @@ Imarticus Learning, Pune
 
 ---
 
-## ✦ 05 — GITHUB ANALYTICS
+<!-- 05 — GITHUB ANALYTICS -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:0F172A,50:155E75,100:7C3AED&text=05%20%E2%80%94%20GITHUB%20ANALYTICS&fontColor=FFFFFF&fontSize=24&fontAlignY=52" width="100%" alt="05 - GitHub Analytics"/>
 
 <div align="center">
 
@@ -185,7 +187,8 @@ Imarticus Learning, Pune
 
 ---
 
-## ✦ 06 — LET'S CONNECT
+<!-- 06 — LET'S CONNECT -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:0F172A,50:155E75,100:7C3AED&text=06%20%E2%80%94%20LET%27S%20CONNECT&fontColor=FFFFFF&fontSize=24&fontAlignY=52" width="100%" alt="06 - Let's Connect"/>
 
 <div align="center">
 
