@@ -165,21 +165,28 @@ An end-to-end machine learning application combining diabetes risk classificatio
 ---
 
 
-## 05 — PORTFOLIO HIGHLIGHTS
+
+## 05 — EXPLORE MY WORK
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Featured_Projects-4-713F50?style=for-the-badge&labelColor=21171C" alt="Four Featured Projects"/>
-<img src="https://img.shields.io/badge/River_Observations-3.99M-D9AD91?style=for-the-badge&labelColor=21171C" alt="3.99 Million River Observations"/>
+<img src="https://img.shields.io/badge/DATA_ANALYTICS-713F50?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analytics"/>
+<img src="https://img.shields.io/badge/MACHINE_LEARNING-21171C?style=for-the-badge&logo=scikitlearn&logoColor=D9AD91" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/DATA_VISUALIZATION-713F50?style=for-the-badge&logo=plotly&logoColor=white" alt="Data Visualization"/>
+<img src="https://img.shields.io/badge/PREDICTIVE_ANALYTICS-21171C?style=for-the-badge&logo=python&logoColor=D9AD91" alt="Predictive Analytics"/>
 
-<img src="https://img.shields.io/badge/Flood_Risk_Accuracy-97.91%25-713F50?style=for-the-badge&labelColor=21171C" alt="Flood Risk Model Accuracy"/>
-<img src="https://img.shields.io/badge/Diabetes_Model_Accuracy-79.2%25-D9AD91?style=for-the-badge&labelColor=21171C" alt="Diabetes Model Accuracy"/>
+<br>
 
-<br><br>
+Explore my repositories featuring data analysis, machine learning models, predictive analytics, and interactive dashboards.
 
-**Data Analysis · Predictive Modeling · Data Visualization · Machine Learning · Interactive Dashboards**
+<br>
+
+<a href="https://github.com/namrataamali?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB_PROJECTS-D9AD91?style=for-the-badge&logo=github&logoColor=21171C" alt="Explore My GitHub Projects"/>
+</a>
 
 </div>
+
 
 
 ---
