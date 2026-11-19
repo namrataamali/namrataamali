@@ -33,8 +33,6 @@ I work on projects involving **predictive modeling, anomaly detection, and inter
 
 ## 02 — TECH STACK
 
-<div align="center">
-
 ### Programming & Databases
 
 <img src="https://skillicons.dev/icons?i=python,mysql,postgresql&theme=dark" alt="Python, MySQL, PostgreSQL"/>
@@ -62,7 +60,6 @@ I work on projects involving **predictive modeling, anomaly detection, and inter
 
 **Streamlit · Jupyter Notebook**
 
-</div>
 
 
 ---
