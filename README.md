@@ -37,7 +37,7 @@ I work on projects involving **predictive modeling, anomaly detection, and inter
 
 <img src="https://skillicons.dev/icons?i=python,mysql,postgresql&theme=dark" alt="Python, MySQL, PostgreSQL"/>
 
-**Python · SQL · MySQL · PostgreSQL**
+**Python  ·  SQL  ·  MySQL  ·  PostgreSQL**
 
 
 ### Data Analysis & Visualization
@@ -49,22 +49,21 @@ I work on projects involving **predictive modeling, anomaly detection, and inter
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
 </p>
 
-**Matplotlib · Seaborn · Plotly**
 
 
-**Matplotlib · Seaborn · Plotly**
+**Matplotlib  ·  Seaborn  ·  Plotly**
 
 ### Machine Learning & AI
 
 <img src="https://skillicons.dev/icons?i=sklearn,tensorflow&theme=dark" alt="Scikit-learn, TensorFlow"/>
 
-**Hugging Face · FAISS · Sentence Transformers**
+**Hugging Face  ·  FAISS  ·  Sentence Transformers**
 
 ### Application Development & Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda&theme=dark" alt="Git, GitHub, VS Code, Anaconda"/>
 
-**Streamlit · Jupyter Notebook**
+**Streamlit  ·  Jupyter Notebook**
 
 
 
