@@ -171,17 +171,34 @@ An end-to-end machine learning application combining diabetes risk classificatio
 
 <div align="center">
 
-<!-- Contribution Streak -->
+<!-- GITHUB STATISTICS + TOP LANGUAGES -->
 
-<img src="https://streak-stats.demolab.com?user=namrataamali&theme=transparent&background=21171C&ring=D9AD91&fire=D9AD91&currStreakLabel=D9AD91&sideLabels=F5EDE7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=BFA9B1&stroke=713F50&hide_border=true" width="65%" alt="GitHub Contribution Streak"/>
+<table>
+<tr>
+<td align="center" width="50%">
+
+### GitHub Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=namrataamali&show_icons=true&bg_color=21171C&title_color=D9AD91&icon_color=D9AD91&text_color=F5EDE7&border_color=713F50&hide_border=true" width="100%" alt="GitHub Statistics"/>
+
+</td>
+<td align="center" width="50%">
+
+### Top Languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namrataamali&layout=compact&bg_color=21171C&title_color=D9AD91&text_color=F5EDE7&border_color=713F50&hide_border=true" width="100%" alt="Top Languages"/>
+
+</td>
+</tr>
+</table>
 
 <br>
 
-<!-- GitHub Statistics and Languages -->
+<!-- CONTRIBUTION ACTIVITY -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=namrataamali&show_icons=true&bg_color=21171C&title_color=D9AD91&icon_color=D9AD91&text_color=F5EDE7&hide_border=true&rank_icon=github" height="165" alt="GitHub Statistics"/>
+### Contribution Activity
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namrataamali&layout=compact&bg_color=21171C&title_color=D9AD91&text_color=F5EDE7&hide_border=true" height="165" alt="Most Used Languages"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=namrataamali&bg_color=21171C&color=D9AD91&line=D9AD91&point=F5EDE7&area=true&area_color=713F50&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
 
 </div>
 
