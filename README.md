@@ -69,12 +69,15 @@ I work on projects involving **predictive modeling, anomaly detection, and inter
 
 ---
 
-## 03 — EDUCATION & LEARNING
 
-🎓 **Bachelor of Computer Applications (BCA)**
+## 03 — EDUCATION
 
-📚 **Postgraduate Program in Data Science & Analytics with Generative AI**  
+🎓 **Bachelor of Computer Applications (BCA)**  
+Savitribai Phule Pune University
+
+📘 **Postgraduate Program in Data Science & Analytics with Generative AI**  
 Imarticus Learning, Pune
+
 
 ### Current Learning Focus
 
