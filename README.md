@@ -79,13 +79,6 @@ Savitribai Phule Pune University
 Imarticus Learning, Pune
 
 
-### Current Learning Focus
-
-`Advanced Machine Learning` · `Deep Learning` · `NLP` · `Generative AI` · `LLMs` · `RAG`
-
-### Certifications & Credentials
-
-🏅 **IBM SkillsBuild — Retrieval-Augmented Generation for Enhanced AI Outputs**
 
 ---
 
