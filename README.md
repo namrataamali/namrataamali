@@ -159,9 +159,11 @@ An end-to-end machine learning application combining diabetes prediction, model 
 
 <br>
 
-<!-- EDUCATION -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:38241F,50:795548,100:A87959&text=04%20-%20EDUCATION%20%26%20LEARNING&fontColor=FFF4E8&fontSize=24&fontAlignY=52" width="100%" alt="04 - Education and Learning"/>
+<!-- 04 — EDUCATION & LEARNING -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;height=65&amp;color=0:38241F,50:795548,100:A87959&amp;text=04%20-%20EDUCATION%20%26%20LEARNING&amp;fontColor=FFF4E8&amp;fontSize=24&amp;fontAlignY=52" width="100%" alt="04 - Education and Learning"/>
+
 
 <br>
 
