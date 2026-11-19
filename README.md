@@ -164,19 +164,23 @@ An end-to-end machine learning application combining diabetes risk classificatio
 
 ---
 
-## 05 — GITHUB ANALYTICS
+
+## 05 — PORTFOLIO HIGHLIGHTS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=namrataamali&show_icons=true&bg_color=21171C&title_color=D9AD91&icon_color=D9AD91&text_color=F5EDE7&hide_border=true&rank_icon=github" height="165" alt="GitHub Statistics"/>
+<img src="https://img.shields.io/badge/Featured_Projects-4-713F50?style=for-the-badge&labelColor=21171C" alt="Four Featured Projects"/>
+<img src="https://img.shields.io/badge/River_Observations-3.99M-D9AD91?style=for-the-badge&labelColor=21171C" alt="3.99 Million River Observations"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=namrataamali&layout=compact&bg_color=21171C&title_color=D9AD91&text_color=F5EDE7&hide_border=true" height="165" alt="Programming Language Breakdown"/>
+<img src="https://img.shields.io/badge/Flood_Risk_Accuracy-97.91%25-713F50?style=for-the-badge&labelColor=21171C" alt="Flood Risk Model Accuracy"/>
+<img src="https://img.shields.io/badge/Diabetes_Model_Accuracy-79.2%25-D9AD91?style=for-the-badge&labelColor=21171C" alt="Diabetes Model Accuracy"/>
 
-<br>
+<br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=namrataamali&bg_color=21171C&color=D9AD91&line=D9AD91&point=F5EDE7&area=true&area_color=713F50&hide_border=true" width="100%" alt="GitHub Contribution Activity"/>
+**Data Analysis · Predictive Modeling · Data Visualization · Machine Learning · Interactive Dashboards**
 
 </div>
+
 
 ---
 
