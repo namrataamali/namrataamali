@@ -151,7 +151,6 @@ An end-to-end machine learning application combining diabetes prediction with in
 <sub>Educational project; predictions are not medical diagnoses.</sub>
 
 ---
-
 <!-- 04 — EDUCATION & LEARNING -->
 <img src="https://capsule-render.vercel.app/api?type=rect&height=65&color=0:0F172A,50:155E75,100:7C3AED&text=04%20%E2%80%94%20EDUCATION%20%26%20LEARNING&fontColor=FFFFFF&fontSize=24&fontAlignY=52" width="100%" alt="04 - Education and Learning"/>
 
