@@ -37,27 +37,33 @@ I work on projects involving **predictive modeling, anomaly detection, and inter
 
 ### Programming & Databases
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgresql&theme=dark" alt="Python MySQL PostgreSQL"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,postgresql&theme=dark" alt="Python, MySQL, PostgreSQL"/>
+
+**Python · SQL · MySQL · PostgreSQL**
 
 ### Data Analysis & Visualization
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,matplotlib,plotly,powerbi,excel&theme=dark" alt="Data Analysis and Visualization Tools"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+
+**Matplotlib · Seaborn · Plotly**
 
 ### Machine Learning & AI
 
-<img src="https://skillicons.dev/icons?i=sklearn,tensorflow&theme=dark" alt="Scikit-learn and TensorFlow"/>
+<img src="https://skillicons.dev/icons?i=sklearn,tensorflow&theme=dark" alt="Scikit-learn, TensorFlow"/>
 
-### Development & Tools
+**Hugging Face · FAISS · Sentence Transformers**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda&theme=dark" alt="Development Tools"/>
+### Application Development & Tools
 
-<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda&theme=dark" alt="Git, GitHub, VS Code, Anaconda"/>
 
-**Additional Tools & Libraries**
-
-`Streamlit` · `Seaborn` · `Jupyter Notebook` · `Hugging Face` · `FAISS` · `Sentence Transformers`
+**Streamlit · Jupyter Notebook**
 
 </div>
+
 
 ---
 
