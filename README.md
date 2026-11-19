@@ -17,19 +17,19 @@
 
 ---
 
+
 ## 01 — ABOUT ME
 
-I'm an aspiring **Data Science & Machine Learning professional** with a background in Computer Applications, passionate about transforming complex datasets into meaningful insights and practical AI-powered solutions.
+I'm a **BCA graduate and aspiring Data Science professional**, currently pursuing a **Postgraduate Program in Data Science & Analytics with Generative AI** at Imarticus Learning, Pune.
 
-My work spans the data science lifecycle — from **data preprocessing and exploratory analysis to predictive modeling, model evaluation, and interactive application development**.
+I enjoy working across the data science workflow — from exploring datasets and identifying patterns to developing machine learning models and building interactive applications.
 
-I enjoy combining analytical thinking, experimentation, and technology to solve real-world problems.
+- 💻 **Technical focus:** Python, SQL, Machine Learning, Power BI, and Data Analytics.
+- 🚀 **Hands-on experience:** Building predictive models, anomaly detection systems, and Streamlit dashboards.
+- 🤖 **Exploring:** Deep Learning, NLP, Generative AI, LLMs, and RAG.
+- 📊 **Project interests:** Applying data science to healthcare, environmental monitoring, energy analytics, and predictive maintenance.
+- 🎯 **Career goal:** Seeking opportunities in Data Science, Data Analytics, and Machine Learning.
 
-- 🔭 **Currently building:** End-to-end Machine Learning and Data Analytics applications
-- 🧠 **Exploring:** Deep Learning, NLP, Generative AI, LLMs, and RAG
-- 📊 **Core skills:** Python, SQL, Machine Learning, Power BI, and Data Visualization
-- 🎯 **Career interests:** Data Science, Data Analytics, and Applied AI
-- 📍 **Location:** Pune, India
 
 ---
 
