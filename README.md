@@ -118,7 +118,7 @@ A data analytics application that explores household electricity consumption pat
 
 **Note:** Flagged anomalies are not confirmed equipment faults.
 
-[View EnergyLens Project](https://github.com/namrataamali/EnergyLens)
+[![View EnergyLens Project](https://img.shields.io/badge/VIEW_PROJECT-D9AD91?style=for-the-badge&logo=github&logoColor=21171C)](https://github.com/namrataamali/EnergyLens)
 
 ---
 
