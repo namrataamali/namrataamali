@@ -104,23 +104,21 @@ A data-driven application that analyzes historical Indian river monitoring recor
 
 ---
 
-### ⚡ 02 — EnergyWatch AI
+### ⚡ 02 — EnergyLens
 
 **Electricity Consumption Analytics & Anomaly Detection**
 
 `Python` `Pandas` `EDA` `Data Visualization` `Isolation Forest` `Streamlit`
 
-A data analytics application that explores electricity consumption patterns and identifies unusual usage observations.
+A data analytics application that explores household electricity consumption patterns and identifies statistically unusual usage observations.
 
-- Analyzed **34,168 hourly electricity records**.
-- Applied Isolation Forest to flag **1,709 potential anomalies**.
-- Developed visual analytics to explore consumption patterns and unusual observations.
+- Analyzed **34,168 hourly electricity records** from over **2 million original measurements**.
+- Applied Isolation Forest to flag **1,709 potential anomalies**, with a **0.5853 Silhouette Score**.
+- Developed an interactive Streamlit dashboard for consumption trends, anomaly analysis, and energy-monitoring recommendations.
 
 **Note:** Flagged anomalies are not confirmed equipment faults.
 
-<a href="https://github.com/namrataamali/EnergyWatch-AI">
-<img src="https://img.shields.io/badge/VIEW_PROJECT-D9AD91?style=for-the-badge&logo=github&logoColor=21171C" alt="View EnergyWatch Project"/>
-</a>
+[View EnergyLens Project](https://github.com/namrataamali/EnergyLens)
 
 ---
 
