@@ -38,6 +38,7 @@ My interests span the complete data analytics lifecycle — from **data cleaning
 - 🎯 **Career focus:** Data Analyst, Data Scientist, and Machine Learning opportunities.
 
 ---
+
 ## 02 — EDUCATION
 
 🎓 **Bachelor of Computer Applications (BCA)**  
@@ -46,6 +47,8 @@ Savitribai Phule Pune University
 📘 **Postgraduate Program in Data Science & Analytics with Generative AI**  
 Imarticus Learning, Pune
 
+---
+
 ## 03 — TECH STACK
 
 ### Programming & Databases
@@ -53,6 +56,8 @@ Imarticus Learning, Pune
 <img src="https://skillicons.dev/icons?i=python,mysql,postgresql&theme=dark" alt="Python, MySQL, PostgreSQL"/>
 
 **Python · SQL · MySQL · PostgreSQL**
+
+---
 
 ### Data Analysis & Visualization
 
