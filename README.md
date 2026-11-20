@@ -38,8 +38,15 @@ My interests span the complete data analytics lifecycle — from **data cleaning
 - 🎯 **Career focus:** Data Analyst, Data Scientist, and Machine Learning opportunities.
 
 ---
+## 02 — EDUCATION
 
-## 02 — TECH STACK
+🎓 **Bachelor of Computer Applications (BCA)**  
+Savitribai Phule Pune University
+
+📘 **Postgraduate Program in Data Science & Analytics with Generative AI**  
+Imarticus Learning, Pune
+
+## 03 — TECH STACK
 
 ### Programming & Databases
 
